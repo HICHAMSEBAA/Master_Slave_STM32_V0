@@ -1,0 +1,7 @@
+../Core/Src/main.c:86:6:Tx_Mode	1
+../Core/Src/main.c:120:6:Send_Data	2
+../Core/Src/main.c:151:6:Rx_Mode	1
+../Core/Src/main.c:185:6:Receive_Data	2
+../Core/Src/main.c:218:5:main	5
+../Core/Src/main.c:338:6:SystemClock_Config	4
+../Core/Src/main.c:392:6:Error_Handler	1
